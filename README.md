@@ -1,5 +1,5 @@
 
-#DrugS Model
+# DrugS Model
 
 A DNN model offers a novel approach for drug screening and mechanism research in cancer therapy from a genomic perspective and demonstrates the potential applications of the DrugS model in personalized therapy and resistance mechanism elucidation.
 
